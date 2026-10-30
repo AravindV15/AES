@@ -71,7 +71,7 @@ AES operates on a 4 × 4 column-major order array of bytes, termed the state
   }
 ```
 # OUTPUT:
-<img width="1911" height="998" alt="image" src="https://github.com/user-attachments/assets/6afc0202-2416-4881-8230-c87558bdc774" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/77e55841-3f20-4537-9f54-6a8b295188e7" />
 
 # RESULT:
 AES successfully encrypts the URL, providing secure and confidential URL transmission.
